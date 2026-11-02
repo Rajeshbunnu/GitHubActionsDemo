@@ -1,0 +1,15 @@
+C:\Users\rajesh.i\source\repos\CalculatorApp\CalculatorApp\bin\Debug\net10.0\CalculatorApp.exe
+C:\Users\rajesh.i\source\repos\CalculatorApp\CalculatorApp\bin\Debug\net10.0\CalculatorApp.deps.json
+C:\Users\rajesh.i\source\repos\CalculatorApp\CalculatorApp\bin\Debug\net10.0\CalculatorApp.runtimeconfig.json
+C:\Users\rajesh.i\source\repos\CalculatorApp\CalculatorApp\bin\Debug\net10.0\CalculatorApp.dll
+C:\Users\rajesh.i\source\repos\CalculatorApp\CalculatorApp\bin\Debug\net10.0\CalculatorApp.pdb
+C:\Users\rajesh.i\source\repos\CalculatorApp\CalculatorApp\obj\Debug\net10.0\CalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rajesh.i\source\repos\CalculatorApp\CalculatorApp\obj\Debug\net10.0\CalculatorApp.AssemblyInfoInputs.cache
+C:\Users\rajesh.i\source\repos\CalculatorApp\CalculatorApp\obj\Debug\net10.0\CalculatorApp.AssemblyInfo.cs
+C:\Users\rajesh.i\source\repos\CalculatorApp\CalculatorApp\obj\Debug\net10.0\CalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\rajesh.i\source\repos\CalculatorApp\CalculatorApp\obj\Debug\net10.0\CalculatorApp.dll
+C:\Users\rajesh.i\source\repos\CalculatorApp\CalculatorApp\obj\Debug\net10.0\refint\CalculatorApp.dll
+C:\Users\rajesh.i\source\repos\CalculatorApp\CalculatorApp\obj\Debug\net10.0\CalculatorApp.pdb
+C:\Users\rajesh.i\source\repos\CalculatorApp\CalculatorApp\obj\Debug\net10.0\CalculatorApp.genruntimeconfig.cache
+C:\Users\rajesh.i\source\repos\CalculatorApp\CalculatorApp\obj\Debug\net10.0\ref\CalculatorApp.dll
+C:\Users\rajesh.i\source\repos\CalculatorApp\CalculatorApp\obj\Debug\net10.0\Calculat.C0507999.Up2Date
