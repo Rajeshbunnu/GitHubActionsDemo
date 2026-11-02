@@ -7,6 +7,7 @@ C:\Users\rajesh.i\source\repos\CalculatorApp\CalculatorApp\obj\Debug\net10.0\Cal
 C:\Users\rajesh.i\source\repos\CalculatorApp\CalculatorApp\obj\Debug\net10.0\CalculatorApp.AssemblyInfoInputs.cache
 C:\Users\rajesh.i\source\repos\CalculatorApp\CalculatorApp\obj\Debug\net10.0\CalculatorApp.AssemblyInfo.cs
 C:\Users\rajesh.i\source\repos\CalculatorApp\CalculatorApp\obj\Debug\net10.0\CalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\rajesh.i\source\repos\CalculatorApp\CalculatorApp\obj\Debug\net10.0\CalculatorApp.sourcelink.json
 C:\Users\rajesh.i\source\repos\CalculatorApp\CalculatorApp\obj\Debug\net10.0\CalculatorApp.dll
 C:\Users\rajesh.i\source\repos\CalculatorApp\CalculatorApp\obj\Debug\net10.0\refint\CalculatorApp.dll
 C:\Users\rajesh.i\source\repos\CalculatorApp\CalculatorApp\obj\Debug\net10.0\CalculatorApp.pdb

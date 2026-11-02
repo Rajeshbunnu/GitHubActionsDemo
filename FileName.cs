@@ -4,7 +4,8 @@ using System.Text;
 
 namespace CalculatorApp
 {
-    internal class FileName
+    public class FileName
     {
+        
     }
 }
